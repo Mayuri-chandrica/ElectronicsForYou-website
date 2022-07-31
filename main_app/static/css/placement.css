@@ -1,0 +1,41 @@
+.placement-head h1 {
+  color: rgb(31, 31, 120);
+  text-align: center;
+  margin-bottom: 1.5rem;
+  margin-top: 1rem;
+}
+.container-place {
+  border: 2px solid rgb(31, 31, 120);
+  border-radius: 30px;
+  width: 80%;
+  height: 110rem;
+  align-items: center;
+  padding-top: 2rem;
+  margin-left: 10%;
+}
+
+.archivement {
+  margin-left: 2rem;
+  margin-right: 2rem;
+  width: 95%;
+  text-align: justify;
+  text-justify: inter-word;
+}
+.archivement h2 {
+  color: #98002e;
+  text-align: center;
+  margin: 2rem 1rem;
+}
+.placement-notice {
+  margin-left: 30%;
+  margin-right: 2rem;
+  width: 40%;
+  height: 30rem;
+  align-items: center;
+  padding-top: 2rem;
+}
+.placement-notice h2 {
+  color: #98002e;
+  text-align: center;
+  margin-top: -1rem;
+}

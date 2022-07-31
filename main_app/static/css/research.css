@@ -1,0 +1,16 @@
+.research-head h1 {
+  color: rgb(31, 31, 120);
+  text-align: center;
+  font-size: 36px;
+}
+.research-head {
+  width: 26rem;
+  height: 4rem;
+  margin-left: 35%;
+  margin-bottom: 0.5rem;
+  margin-top: 1rem;
+}
+.card-body a {
+  text-decoration: none;
+  color: #98002e;
+}

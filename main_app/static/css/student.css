@@ -1,0 +1,21 @@
+.student-head h1 {
+  color: rgb(31, 31, 120);
+  text-align: center;
+  margin-bottom: 1.5rem;
+  margin-top: 1rem;
+}
+.container-stu {
+  border: 2px solid rgb(31, 31, 120);
+  border-radius: 30px;
+  width: 80%;
+  height: 80rem;
+  margin-left: 10%;
+  align-items: center;
+  padding-top: 2rem;
+}
+
+.syllabus h2 {
+  text-align: center;
+  margin-top: 0.5rem;
+  margin-bottom: 2rem;
+}

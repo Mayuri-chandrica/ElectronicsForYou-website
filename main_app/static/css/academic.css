@@ -1,0 +1,56 @@
+.academic {
+  height: 50rem;
+  width: 80%;
+}
+.head h1 {
+  color: rgb(31, 31, 120);
+  text-align: center;
+}
+
+.head {
+  margin-top: 1rem;
+  width: 55rem;
+  height: 7rem;
+  margin-left: 16rem;
+}
+.section {
+  width: 65rem;
+  margin-left: 7rem;
+  border-radius: 20px;
+  padding: 4rem 1rem 4rem 1rem;
+  margin-top: -2rem;
+}
+table {
+  width: 100%;
+}
+#scrolltotop {
+  position: fixed;
+  z-index: 3;
+  right: 4rem;
+  bottom: 4rem;
+  width: 60px;
+  height: 60px;
+  border-radius: 50px;
+  background: rgb(31, 31, 120);
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.25);
+  color: white;
+  outline: none;
+  cursor: pointer;
+  border: none;
+}
+#scrolltotop a {
+  text-decoration: none;
+  color: white;
+  font-size: 34px;
+}
+.academic p {
+  text-align: justify;
+  text-justify: inter-word;
+}
+.container {
+  border: 2px solid rgb(31, 31, 120);
+  border-radius: 30px;
+  width: 80%;
+  height: 130rem;
+  align-items: center;
+}

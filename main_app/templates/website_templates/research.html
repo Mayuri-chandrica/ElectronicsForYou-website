@@ -1,0 +1,65 @@
+{% extends 'website_templates/home/navbar.html' %}{% load static %}
+<div class="research">
+  {% block content %}
+  <div class="research-head">
+    <h1>-: Research & Articles :-</h1>
+  </div>
+
+  <div class="container">
+    <div class="row">
+      <div class="col">
+        <div class="card mb-3" style="max-width: 600px">
+          <div class="row g-0">
+            <div class="col-md-4">
+              <img
+                src="{% static 'img/opamp.png'%}"
+                class="img-fluid rounded-start"
+                alt="..."
+              />
+            </div>
+            <div class="col-md-8">
+              <div class="card-body">
+                <h5 class="card-title">Op-amp in Digital Electronicse</h5>
+                <p class="card-text">
+                  An amplifier is a device that increases the strength of the
+                  input signal. It can be Voltage amplifiers, whose input is
+                  some voltage and output is also voltage but amplified. Current
+                  amplifier, whose input is some current and output
+                </p>
+                <a href="#" style="text-decoration: none">READ MORE</a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col">
+        <div class="card mb-3" style="max-width: 600px">
+          <div class="row g-0">
+            <div class="col-md-4">
+              <img
+                src="{% static 'img/Full-Adder-Circuit.png' %}"
+                class="img-fluid rounded-start"
+                alt="..."
+              />
+            </div>
+            <div class="col-md-8">
+              <div class="card-body">
+                <h5 class="card-title">Full Adder in Digital Logic</h5>
+                <p class="card-text">
+                  Full Adder is the adder that adds three inputs and produces
+                  two outputs. The first two inputs are A and B and the third
+                  input is an input carry as C-IN. The output carry is
+                  designated as C-OUT and the normal output is designated as S
+                  which is SUM.
+                </p>
+                <a href="#" style="text-decoration: none">READ MORE</a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  {% endblock %}
+</div>

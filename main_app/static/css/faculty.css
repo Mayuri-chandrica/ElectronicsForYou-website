@@ -1,0 +1,24 @@
+.faculty-head h1 {
+  color: rgb(31, 31, 120);
+  text-align: center;
+  font-size: 36px;
+}
+
+.faculty-table {
+  margin-top: 2rem;
+}
+.container {
+  border: 2px solid rgb(31, 31, 120);
+  border-radius: 30px;
+  width: 80%;
+  height: 130rem;
+  align-items: center;
+  padding-top: 2rem;
+}
+.faculty-head {
+  width: 26rem;
+  height: 4rem;
+  margin-left: 35%;
+  margin-bottom: 0.5rem;
+  margin-top: -0.8rem;
+}
