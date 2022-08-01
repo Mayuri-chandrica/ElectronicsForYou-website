@@ -41,8 +41,8 @@ HOME
 DEPARTMENT MANAGEMENT SYSTEM
 LOGIN PAGE
 <p float="left">
-    <img src="screenshots\department management system\Screenshot (10).png" width="200" height="150">
-    <img src="screenshots\department management system\Screenshot (11).png" width="200" height="150">
+    <img src="screenshots\department management system\Screenshot (10).png" width="300" height="250">
+    <img src="screenshots\department management system\Screenshot (11).png" width="300" height="250">
 </p>
 ADMIN , STAFF , STUDENT DASHBOARD
 <p float="left">
