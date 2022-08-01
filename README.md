@@ -34,19 +34,19 @@ HOME
 <img src="screenshots\home\Screenshot (22).png">
 
 <p float="left">
-    <img src="screenshots\home\Screenshot (23).png" width="500" height="400">
-    <img src="screenshots\home\Screenshot (24).png" width="500" height="400">
+    <img src="screenshots\home\Screenshot (23).png" >
+    <img src="screenshots\home\Screenshot (24).png" >
 </p>
 
 DEPARTMENT MANAGEMENT SYSTEM
 LOGIN PAGE
 <p float="left">
-    <img src="screenshots\department management system\Screenshot (10).png" width="500" height="400">
-    <img src="screenshots\department management system\Screenshot (11).png" width="500" height="400">
+    <img src="screenshots\department management system\Screenshot (10).png" width="200" height="150">
+    <img src="screenshots\department management system\Screenshot (11).png" width="200" height="150">
 </p>
 ADMIN , STAFF , STUDENT DASHBOARD
 <p float="left">
-    <img src="screenshots\department management system\Screenshot (12).png" width="333" height="250">
-    <img src="screenshots\department management system\Screenshot (32).png" width="333" height="250">
-    <img src="screenshots\home\Screenshot (31).png" width="333" height="250">
+    <img src="screenshots\department management system\Screenshot (12).png" width="200" height="150">
+    <img src="screenshots\department management system\Screenshot (32).png" width="200" height="150">
+    <img src="screenshots\home\Screenshot (31).png" width="200" height="150">
 </p>
